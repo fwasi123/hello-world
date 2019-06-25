@@ -1,5 +1,5 @@
 {
-  "AWSTemplateFormatVersion": "2010-09-10",
+  "AWSTemplateFormatVersion": "2010-09-11",
 
   "Description": "AWS CloudFormation Sample Template Config: This template demonstrates the usage of AWS Config resources.  **WARNING** You will be billed for the AWS resources used if you create a stack from this template.",
 
